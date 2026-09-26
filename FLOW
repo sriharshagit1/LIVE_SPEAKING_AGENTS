@@ -1,0 +1,10 @@
+[ OmniPersona App ]
+├── Tab 1: "Specialists" (Default Hub)
+│    ├── Horizontal tray: Real Estate | Foodie | Tour Guide | Tech Tutor...
+│    └── Center Stage: Active specialist answering voice queries directly
+│
+└── Tab 2: "My Avatars" / "Create Custom"
+     ├── Upload portrait photo
+     ├── Select voice tone (Warm, Professional, Casual)
+     ├── Set custom knowledge/prompt
+     └── Instant conversation test
